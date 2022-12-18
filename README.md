@@ -33,10 +33,24 @@ git clone https://github.com/Jhow-Rambo/FindOutTheirNamesChallenge.git
 
 ## Usage
 
+Go to the project directory
+
+```bash
+cd FindOutTheirNamesChallenge
+```
+
+Install the dependencies
+
 ```bash
 npm install
 ```
 
+Run the project
+
 ```bash
 npm run dev
 ```
+
+## About the solution
+
+To solve this challenge was used a database with more than 100k Brazilian names. The dataset is based on CENSO of 2010 and can be found in the following link: https://brasil.io/dataset/genero-nomes/nomes/
